@@ -3,7 +3,7 @@
 Inspired by [diacritics-regex](https://www.npmjs.com/package/diacritic-regex) and [htmlentities](https://www.npmjs.com/package/htmlentities), create a regex with the term indicated by changing each character for a regex expression with variaves of charCode and Html Entities
 
 ```javascript
-var regex = require('../src/regex.js')
+var regex = require('regex-charcode-htmlentities')
 
 console.log(regex('maçã'))
 /*
