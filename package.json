@@ -1,0 +1,11 @@
+{
+  "name": "regex-charcode-htmlentities",
+  "version": "0.0.1",
+  "description": "Inspired by diacritics-regex and htmlentities, create a regex with the term indicated by changing each character for a regex expression with variaves of charCode and Html Entities",
+  "main": "src/regex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Philippe Assis <assis@philippeassis.com> (philippeassis.com)",
+  "license": "ISC"
+}
