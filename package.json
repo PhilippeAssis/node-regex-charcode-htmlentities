@@ -1,6 +1,6 @@
 {
   "name": "regex-charcode-htmlentities",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Inspired by diacritics-regex and htmlentities, create a regex with the term indicated by changing each character for a regex expression with variaves of charCode and Html Entities",
   "main": "src/regex.js",
   "scripts": {

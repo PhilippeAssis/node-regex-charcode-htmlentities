@@ -45,9 +45,9 @@ module.exports = function(input, flags) {
     }
 
     if (flags === false) {
-        return exp
-    } else {
-        return '/' + exp + '/' + flags
-    }
+		return exp
+	} else {
+		return RegExp(exp, flags);
+	}
 
 }
